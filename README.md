@@ -1,90 +1,174 @@
-<h1 align="center">Hi 👋, I'm LightBrine</h1>
-<h3 align="center">Web Developer • Cybersecurity Learner • Animator</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Web+Experiences;Learning+Cybersecurity;Creating+Animations;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌐 Learning **Web Development**
-- 🔒 Exploring **Cybersecurity**
-- 🎬 Interested in **Animation & Motion Design**
-- 🐍 Currently learning **Python**
-- 📚 Always improving my skills and building projects
-- 🎯 Goal: Become a professional developer and cybersecurity specialist
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LightBrine&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightBrine&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LightBrine&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LightBrine&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LightBrine&theme=tokyo-night" />
-</p>
-
----
-
-## 🎯 Current Focus
+# ⚡ LIGHTBRINE ⚡
 
 ```text
-🌐 Web Development     ███████░░░
-🔒 Cybersecurity       █████░░░░░
-🎬 Animation           ████░░░░░░
-🐍 Python              ██████░░░░
+██╗     ██╗ ██████╗ ██╗  ██╗████████╗██████╗ ██████╗ ██╗███╗   ██╗███████╗
+██║     ██║██╔════╝ ██║  ██║╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║██╔════╝
+██║     ██║██║  ███╗███████║   ██║   ██████╔╝██████╔╝██║██╔██╗ ██║█████╗
+██║     ██║██║   ██║██╔══██║   ██║   ██╔══██╗██╔══██╗██║██║╚██╗██║██╔══╝
+███████╗██║╚██████╔╝██║  ██║   ██║   ██████╔╝██║  ██║██║██║ ╚████║███████╗
+╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝
+```
+
+### 🌐 Web Developer | 🔒 Cybersecurity Learner | 🎬 Animator
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyberpunk+Profile;Building+Modern+Websites;Learning+Cybersecurity;Creating+Animations;Powered+by+Python+and+Linux" />
+
+</div>
+
+---
+
+# 🧠 SYSTEM INFORMATION
+
+```yaml
+Name: LightBrine
+Location: Egypt
+Role: Student & Tech Enthusiast
+Status: Learning Every Day
+Focus:
+  - Web Development
+  - Cybersecurity
+  - Python
+  - Animation
+Operating_System:
+  - Linux
+  - Fedora
+  - Ubuntu
+Tools:
+  - VS Code
+  - Git
+  - Termux
 ```
 
 ---
 
-## 💡 Favorite Quote
+# 🚀 CURRENT MISSION
 
-> "Every expert was once a beginner."
+```text
+[████████░░] Web Development
+
+[██████░░░░] Cybersecurity
+
+[███████░░░] Python
+
+[█████░░░░░] Animation
+```
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐
-</p>
+# 💻 TECH STACK
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode)
+![Termux](https://img.shields.io/badge/Termux-111111?style=for-the-badge&logo=gnubash)
+
+---
+
+# 🔥 CURRENTLY LEARNING
+
+```python
+class LightBrine:
+
+    def __init__(self):
+        self.skills = [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Python",
+            "Linux",
+            "Cybersecurity",
+            "Animation"
+        ]
+
+    def goal(self):
+        return "Become a Professional Developer"
+
+me = LightBrine()
+
+print(me.goal())
+```
+
+Output:
+
+```text
+Become a Professional Developer
+```
+
+---
+
+# 📂 PROJECTS
+
+```text
+📁 Future Portfolio Website
+📁 Cybersecurity Learning Labs
+📁 Python Projects
+📁 Animation Experiments
+📁 Open Source Contributions
+```
+
+---
+
+# 🖥 TERMINAL
+
+```bash
+$ whoami
+LightBrine
+
+$ skill --list
+
+✔ Web Development
+✔ Python
+✔ Linux
+✔ Animation
+✔ Cybersecurity Learning
+
+$ mission
+
+Become a Full-Stack Developer
+&
+Cybersecurity Specialist
+```
+
+---
+
+# 🎯 OBJECTIVES
+
+- Build modern websites
+- Learn advanced Python
+- Master Linux
+- Explore ethical hacking
+- Create animation projects
+- Contribute to open source
+
+---
+
+# 💬 QUOTE
+
+> "The best way to predict the future is to build it."
+
+---
+
+<div align="center">
+
+### ⚡ ACCESS GRANTED ⚡
+
+```text
+Connection Secure...
+Identity Verified...
+Welcome to LightBrine Profile.
+```
+
+⭐ Thanks for visiting ⭐
+
+</div>
