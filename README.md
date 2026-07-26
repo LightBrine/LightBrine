@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm LightBrine</h1>
 <h3 align="center">Web Developer • Cybersecurity Learner • Animator</h3>
 
