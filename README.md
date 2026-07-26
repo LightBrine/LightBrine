@@ -15,6 +15,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyberpunk+Profile;Building+Modern+Websites;Learning+Cybersecurity;Creating+Animations;Powered+by+Python+and+Linux" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LightBrine&label=VISITORS&color=blueviolet&style=flat-square" />
+</p>
+
 </div>
 
 ---
